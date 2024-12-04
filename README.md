@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, I'm Richard!
+** Laravel PHP Developer**
 
-<!--
-**richard-galolo/richard-galolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me**
+- 🔭 I’m currently working on **Web Scraping** using Node.js with Cheerio for data parsing.
+- 🌱 I’m currently learning **Vue Js**, **Express JS**, and **Web Scraping solutions**.  
+- ⚡ Fun fact: I love exploring nature and staying active through outdoor activities.
 
-Here are some ideas to get you started:
+🛠️ **Skills & Technologies**
+- **Languages:** PHP, JavaScript, HTML, CSS
+- **Frameworks:** Laravel
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Cloud & Storage:** AWS S3, Azure Blob, Digital Ocean Spaces, Wasabi, BunnyCDN, Box
+- **Payment Gateways:** Stripe, PayPal, Dragonpay
+- **Mail/SMS Drivers:** Sendgrid, Mailchimp, Twilio, Movider
+- **Error Logging & Monitoring:** Sentry, Rollbar, Papertrail, Slack
+- **CMS Platforms:** Joomla, WordPress, Freshdesk
+- **Tools & Platforms:** Bitbucket, GitLab, GitHub, Codebase, JIRA, MS Teams, Slack, Sequel Pro, Postman, Forge, Digital Ocean
+- **Others:** RESTful APIs, Web Scraping, Payment Gateway Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫  **How to Reach Me**
+- **Email**: [richardgalolo@gmail.com](mailto:richardgalolo@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/richard-galolo-b7a4ab180](https://www.linkedin.com/in/richard-galolo-b7a4ab180)
+- **Facebook:** [facebook.com/richard.galolo.7](https://www.facebook.com/richard.galolo.7)
+
+💬 **Ask me about**
+- Laravel design patterns and architecture.
+- Building scalable RESTful APIs with Laravel.
+- Troubleshooting common PHP and Laravel issues.
