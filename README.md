@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Richard!
-** Laravel PHP Developer**
+**Laravel PHP Developer**
 
 🚀 **About Me**
 - 🔭 I’m currently working on **Web Scraping** using Node.js with Cheerio for data parsing.
@@ -13,7 +13,7 @@
 - **Cloud & Storage:** AWS S3, Azure Blob, Digital Ocean Spaces, Wasabi, BunnyCDN, Box
 - **Payment Gateways:** Stripe, PayPal, Dragonpay
 - **Mail/SMS Drivers:** Sendgrid, Mailchimp, Twilio, Movider
-- **Error Logging & Monitoring:** Sentry, Rollbar, Papertrail, Slack
+- **Error Logging & Monitoring:** Sentry, Rollbar, Papertrail
 - **CMS Platforms:** Joomla, WordPress, Freshdesk
 - **Tools & Platforms:** Bitbucket, GitLab, GitHub, Codebase, JIRA, MS Teams, Slack, Sequel Pro, Postman, Forge, Digital Ocean
 - **Others:** RESTful APIs, Web Scraping, Payment Gateway Integration
