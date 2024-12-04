@@ -3,7 +3,7 @@
 
 🚀 **About Me**
 - 🔭 I’m currently working on **Web Scraping** using Node.js with Cheerio for data parsing.
-- 🌱 I’m currently learning **Vue Js**, **Express JS**, and **Web Scraping solutions**.  
+- 🌱 I’m currently learning **Vue.js** and **Express.js**.  
 - ⚡ Fun fact: I love exploring nature and staying active through outdoor activities.
 
 🛠️ **Skills & Technologies**
